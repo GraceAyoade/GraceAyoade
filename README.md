@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GraceAyoade
 - 👀 I am interested in building impactful softwares
 - 🌱 I’m currently learning NodeJs, React, CSS
-- 💞️ I’m looking to collaborate on projects in HealthCare, Counselling, and 
+- 💞️ I’m looking to collaborate on projects in HealthCare, B2B and Personal Development
 - 📫 Reach me @ tomilewagrace1@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love reading, learning new things, and building in whatever capacity that I can.
